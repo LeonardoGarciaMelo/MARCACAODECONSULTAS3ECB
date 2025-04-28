@@ -3,7 +3,6 @@ import styled from 'styled-components/native';
 import { Button } from 'react-native-elements';
 import { HeaderContainer, HeaderTitle } from '../components/Header';
 import theme from '../styles/theme';
-//@ts-ignore
 import { NativeStackNavigationProp } from '@react-navigation/native-stack';
 
 type RootStackParamList = {
