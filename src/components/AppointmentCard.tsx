@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from 'styled-components/native';
 import { ViewStyle } from 'react-native';
-import { Card, Text, Avatar } from '@rneui/themed';
+import { Card, Text, Avatar } from 'react-native-elements';
 import theme from '../styles/theme';
 
 interface AppointmentCardProps {
