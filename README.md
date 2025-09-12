@@ -6,6 +6,12 @@
 
 Um aplicativo mobile para agendamento de consultas médicas, desenvolvido com React Native e TypeScript.
 
+# Participantes do Grupo
+- Leonardo Garcia Melo      Rm:99471
+- Guilherme Moraes Pagani   Rm:99445
+- Rafael Bisi Succi         Rm:550716
+- Siraj Youssef             Rm:551792
+
 ## Sobre o Projeto
 
 Este é um aplicativo mobile desenvolvido em React Native para agendamento de consultas médicas. O sistema permite que pacientes visualizem médicos disponíveis, agendem consultas e gerenciem seus compromissos médicos de forma simples e intuitiva.
