@@ -1,3 +1,4 @@
+import React from 'react';
 import { ScrollView, ViewStyle } from 'react-native';
 import { Button, Input } from 'react-native-elements';
 import Header from '../../components/Header';

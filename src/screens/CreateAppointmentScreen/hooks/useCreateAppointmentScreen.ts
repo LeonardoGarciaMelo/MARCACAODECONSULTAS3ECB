@@ -1,7 +1,7 @@
 import { useAuth } from '../../../contexts/AuthContext';
 import { useNavigation } from '@react-navigation/native';
 import AsyncStorage from '@react-native-async-storage/async-storage';
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import { authApiService } from '../../../services/authApi';
 import { User } from '../../../types/auth';
 import { NativeStackNavigationProp } from '@react-navigation/native-stack';
